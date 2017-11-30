@@ -3,6 +3,6 @@ A simple app that asks you questions and compares your answers to your friends a
 
 
 ## set-up
-### npm install
-### npm start
-### navigate to #### localhost:3000
+1. npm install
+2. npm start
+3. navigate to localhost:3000
